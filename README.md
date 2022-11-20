@@ -1,5 +1,5 @@
 ![Norbert's GitHub stats](https://github-readme-stats.vercel.app/api?username=azotamiota&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=azotamiota)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=azotamiota&theme=dark)](https://git.io/streak-stats)
 
 <!--### Hi there 👋
 
